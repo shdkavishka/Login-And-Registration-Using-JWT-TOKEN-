@@ -1,0 +1,149 @@
+{
+  "user": [
+    {
+      "id": "adminuser",
+      "name": "Kaviya",
+      "password": "admin",
+      "email": "kaciyas@gmail.com",
+      "phone": "7752",
+      "country": "SL",
+      "address": "5th lane",
+      "role": "admin",
+      "gender": "male"
+    },
+    {
+      "id": "ntuser",
+      "name": "Fullname",
+      "password": "ntuser",
+      "email": "email@email.com",
+      "phone": "56778889989",
+      "country": "singapore",
+      "address": "address1\naddrees2",
+      "role": "user",
+      "gender": "male"
+    },
+    {
+      "id": "kavishka",
+      "name": "deshan kavishka",
+      "password": "7752",
+      "email": "shdkavishka@gmail.com",
+      "phone": "0763116949",
+      "country": "india",
+      "address": "kurunegala",
+      "gender": "male"
+    },
+    {
+      "id": "nimasula",
+      "name": "nimasula sula",
+      "password": "456",
+      "email": "gdhsgdjs@gmail.com",
+      "phone": "789",
+      "country": "india",
+      "address": "dsadsad",
+      "gender": "female"
+    },
+    {
+      "id": "dddd",
+      "name": "ddddaaaa",
+      "password": "dddd",
+      "email": "ddd@gmail.com",
+      "phone": "4564",
+      "country": "usa",
+      "address": "asdasdads",
+      "gender": "male"
+    },
+    {
+      "id": "qqqqqq",
+      "name": "qqqqqq",
+      "password": "qqqq",
+      "email": "qqq@gmail.com",
+      "phone": "45645",
+      "country": "india",
+      "address": "qqq",
+      "gender": "female"
+    },
+    {
+      "id": "qwwerwerwr",
+      "name": "ewrwrewr",
+      "password": "werer",
+      "email": "sdksdk@gankska.com",
+      "phone": "4445",
+      "country": "india",
+      "address": "sdsd",
+      "gender": "female"
+    },
+    {
+      "id": "cxzcxz",
+      "name": "zxccxz",
+      "password": "xczxc",
+      "email": "xzcz@hhd.com",
+      "phone": "466",
+      "country": "india",
+      "address": "Zxxz",
+      "gender": "female"
+    },
+    {
+      "id": "sdsdsd",
+      "name": "sdsdds",
+      "password": "sdsds",
+      "email": "sdsd@gmail.com",
+      "phone": "45645",
+      "country": "india",
+      "address": "sasas",
+      "gender": "female"
+    },
+    {
+      "id": "saSASSs",
+      "name": "dfdf",
+      "password": "dfdf",
+      "email": "ssds@gmai.com",
+      "phone": "46",
+      "country": "india",
+      "address": "scs",
+      "gender": "female"
+    }
+  ],
+  "roleaccess": [
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveedit": true,
+      "havedelete": true
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveedit": false,
+      "havedelete": false
+    }
+  ],
+  "customer": [
+    {
+      "code": 1,
+      "name": "Chris",
+      "email": "chris@in.com"
+    },
+    {
+      "code": 2,
+      "name": "Lynn",
+      "email": "lynn@in.com"
+    },
+    {
+      "code": 3,
+      "name": "Tim",
+      "email": "tim@in.com"
+    },
+    {
+      "code": 4,
+      "name": "Southee",
+      "email": "southee@in.com"
+    },
+    {
+      "code": 5,
+      "name": "boult",
+      "email": "bould@in.com"
+    }
+  ]
+}
